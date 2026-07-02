@@ -33,22 +33,8 @@
 🌱 Currently learning Deep Learning, MLOps, Cloud Deployment, and AI Agents
 
 📍 Indore, Madhya Pradesh, India
-# 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,sklearn" />
-</p>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sachinsinghbaghel057&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinsinghbaghel057&layout=compact&theme=tokyonight)
-![](https://streak-stats.demolab.com?user=Sachinsinghbaghel057&theme=tokyonight)
-![](https://github-profile-trophy.vercel.app/?username=Sachinsinghbaghel057&theme=tokyonight)
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachinsinghbaghel057&theme=tokyo-night)](https://github.com/Sachinsinghbaghel057)
 # 📌 Featured Projects
 
 ## 🤖 AI PDF Question Answering System
